@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @EngDeaa
+- 👋 Hi, I’m Deaa Chaleh
 - 👀 I’m interested in web programming
 - 🌱 I’m currently learning angular js
 - 💞️ I’m looking to collaborate on web projects
